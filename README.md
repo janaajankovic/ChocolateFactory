@@ -36,3 +36,11 @@ npm run serve
 
 ### Project Creators
 This project was developed by Jana Janković and Marija Đurđević.
+
+![Screenshot 2025-03-30 180435](https://github.com/user-attachments/assets/67be441f-fbfe-4473-9f53-99d0aec9f362)
+![Screenshot 2025-03-30 180854](https://github.com/user-attachments/assets/63e1c8a9-41e8-43e8-ad2b-d7c27eaff235)
+![Screenshot 2025-03-30 180926](https://github.com/user-attachments/assets/d63a092a-9655-4fe8-8d9f-291bab8d5aba)
+![Screenshot 2025-03-30 180944](https://github.com/user-attachments/assets/3e972d7e-c2e0-4e98-b57c-18194a0e6337)
+![Screenshot 2025-03-30 181437](https://github.com/user-attachments/assets/dd4ff337-9017-4ec6-9972-f00881729035)
+![Screenshot 2025-03-30 190725](https://github.com/user-attachments/assets/beb4e269-bcc3-47d2-a33d-3236e03dab65)
+
